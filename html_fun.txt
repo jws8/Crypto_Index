@@ -1,0 +1,1187 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"/>
+  <title>
+   Doge price - Google Search
+  </title>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"===c||"q"===c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!==document.documentElement;a=a.parentElement)if("A"===a.tagName){a="1"===a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);(function(){
+var a=window.performance;window.start=Date.now();a:{var b=window;if(a){var c=a.timing;if(c){var d=c.navigationStart,f=c.responseStart;if(f>d&&f<=window.start){window.start=f;b.wsrt=f-d;break a}}a.now&&(b.wsrt=Math.floor(a.now()))}}window.google=window.google||{};var h=function(g){g&&g.target.setAttribute("data-iml",Date.now())};document.documentElement.addEventListener("load",h,!0);google.rglh=function(){document.documentElement.removeEventListener("load",h,!0)};}).call(this);(function(){window.google.erd={jsr:0,bv:1489,de:true};})();(function(){
+var c=[],e=0;window.ping=function(b){-1==b.indexOf("&zx")&&(b+="&zx="+Date.now());var a=new Image,d=e++;c[d]=a;a.onerror=a.onload=a.onabort=function(){delete c[d]};a.src=b};}).call(this);
+  </script>
+  <style>
+   body{margin:0 auto;max-width:736px;padding:0 8px;}a{color:#1967D2;text-decoration:none;tap-highlight-color:rgba(0,0,0,.10)}a:visited{color:#4B11A8}a:hover{text-decoration:underline}img{border:0}html{font-family:Roboto,Helvetica Neue,Arial,sans-serif;font-size:14px;line-height:20px;text-size-adjust:100%;color:#3c4043;word-wrap:break-word;background-color:#fff}.bRsWnc{background-color:#fff;border-top:1px solid #dadce0;height:39px;overflow:hidden}.N6RWV{height:51px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Uv67qb{box-pack:justify;font-size:12px;line-height:37px;justify-content:space-between;justify-content:space-between}.Uv67qb a,.Uv67qb span{color:#70757a;display:block;flex:none;padding:0 16px;text-align:center;text-transform:uppercase;}span.OXXup{border-bottom:2px solid #4285f4;color:#4285f4;font-weight:bold}a.eZt8xd:visited{color:#70757a}.FElbsf{border-left:1px solid rgba(0,0,0,.12)}header article{overflow:visible}.Pg70bf{height:39px;display:box;display:flex;display:flex;width:100%}.H0PQec{position:relative;flex:1}.sbc{display:flex;width:100%}.Pg70bf input{margin:2px 4px 2px 8px;}.x{width:26px;color:#70757a;font:27px/38px arial, sans-serif;line-height:40px;}#qdClwb{flex:0 0 auto;width:39px;height:39px;border-bottom:0;padding:0;border-top-right-radius:8px;background-color:#1a73e8;border:1px solid #1558d6;background-image:url(data:image/gif;base64,R0lGODdhJAAjAPIHAODr/nCk+MPZ/FmV96zK+/7+/5K5+kqL9iwAAAAAJAAjAEADani63P4wykmbKcQRXDscQAEMXmmeaLQVLCukzyC09AjfeK7v/MAajACLhPMVAgwjsUcEiZa8xgAYrVqv2Kx2iwsIAAABknfBBAKrTE4IcMyot8ur8datqIbQfJdnAfo2WE6BV05wXIiJigkAOw==);}.sc{font-size:16px;position:absolute;top:39px;left:0;right:0;box-shadow:0px 2px 5px rgba(0,0,0,.2);z-index:2;background-color:#fff}.sc>div{padding:10px 10px;padding-left:16px;padding-left:14px;border-top:1px solid #dfe1e5}.scs{background-color:#f8f9fa;}.noHIxc{display:block;font-size:16px;padding:0 0 0 8px;flex:1;height:35px;outline:none;border:none;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,.00);overflow:hidden;}.sbc input[type=text]{background:none}.sml .cOl4Id{display:none}.l{display:none}.sml header{background:none}.sml .l{display:block;padding:0 8px}.sml .l{letter-spacing:-1px;text-align:center;border-radius:2px 0 0 0;font:22px/36px Futura, Arial, sans-serif;font-smoothing:antialiased}.bz1lBb{background:#fff;border-radius:8px 8px 0 0;box-shadow:0 1px 6px rgba(32, 33, 36, 0.18);margin-top:10px}.KP7LCb{border-radius:0 0 8px 8px;box-shadow:0 2px 3px rgba(32, 33, 36, 0.18);margin-bottom:10px;overflow:hidden}.cOl4Id{letter-spacing:-1px;text-align:center;font:22pt Futura, Arial, sans-serif;height:37px;font-smoothing:antialiased;padding:10px 0 5px 0;}.cOl4Id span{display:inline-block}.V6gwVd{color:#4285f4}.iWkuvd{color:#ea4335}.cDrQ7{color:#fcc934}.ntlR9{color:#34a853}.tJ3Myc{-webkit-transform:rotate(-20deg);position:relative;left:-1px;display:inline-block}footer{text-align:center;margin-top:18px}footer a,footer a:visited,.smiUbb{color:#70757a}.xeDNfc{margin:0 13px}#EOlPnc{margin-top:36px}#EOlPnc>div{margin:20px}.Srfpq{color:#70757a}
+  </style>
+ </head>
+ <body jsmodel="hspDDf">
+  <header id="hdr">
+   <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+    (function(){
+var k=this||self,l=function(){},m=function(a){var b=typeof a;return"object"==b&&null!=a||"function"==b},n=function(a,b){function c(){}c.prototype=b.prototype;a.j=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.l=function(d,e,f){for(var g=Array(arguments.length-2),h=2;h<arguments.length;h++)g[h-2]=arguments[h];return b.prototype[e].apply(d,g)}};var p=Array.prototype.indexOf?function(a,b){return Array.prototype.indexOf.call(a,b,void 0)}:function(a,b){if("string"===typeof a)return"string"!==typeof b||1!=b.length?-1:a.indexOf(b,0);for(var c=0;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1};var q=function(a){return"string"==typeof a.className?a.className:a.getAttribute&&a.getAttribute("class")||""},r=function(a,b){"string"==typeof a.className?a.className=b:a.setAttribute&&a.setAttribute("class",b)},t=function(a,b){a.classList?b=a.classList.contains(b):(a=a.classList?a.classList:q(a).match(/\S+/g)||[],b=0<=p(a,b));return b},w=function(){var a=u,b=v;a.classList?a.classList.remove(b):t(a,b)&&r(a,Array.prototype.filter.call(a.classList?a.classList:q(a).match(/\S+/g)||[],function(c){return c!=
+b}).join(" "))};function x(){var a=k.navigator;return a&&(a=a.userAgent)?a:""};var y=function(a){y[" "](a);return a};y[" "]=l;var z=-1!=x().indexOf("Gecko")&&!(-1!=x().toLowerCase().indexOf("webkit")&&-1==x().indexOf("Edge"))&&!(-1!=x().indexOf("Trident")||-1!=x().indexOf("MSIE"))&&-1==x().indexOf("Edge");var A=function(a,b){this.type=a;this.target=b};A.prototype.g=function(){};var B=function(){if(!k.addEventListener||!Object.defineProperty)return!1;var a=!1,b=Object.defineProperty({},"passive",{get:function(){a=!0}});try{k.addEventListener("test",l,b),k.removeEventListener("test",l,b)}catch(c){}return a}();var D=function(a){A.call(this,a?a.type:"");this.relatedTarget=this.target=null;this.button=this.screenY=this.screenX=this.clientY=this.clientX=0;this.key="";this.keyCode=0;this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=!1;this.state=null;this.pointerId=0;this.pointerType="";this.h=null;if(a){var b=this.type=a.type,c=a.changedTouches&&a.changedTouches.length?a.changedTouches[0]:null;this.target=a.target||a.srcElement;var d=a.relatedTarget;if(d){if(z){a:{try{y(d.nodeName);var e=!0;break a}catch(f){}e=
+!1}e||(d=null)}}else"mouseover"==b?d=a.fromElement:"mouseout"==b&&(d=a.toElement);this.relatedTarget=d;c?(this.clientX=void 0!==c.clientX?c.clientX:c.pageX,this.clientY=void 0!==c.clientY?c.clientY:c.pageY,this.screenX=c.screenX||0,this.screenY=c.screenY||0):(this.clientX=void 0!==a.clientX?a.clientX:a.pageX,this.clientY=void 0!==a.clientY?a.clientY:a.pageY,this.screenX=a.screenX||0,this.screenY=a.screenY||0);this.button=a.button;this.keyCode=a.keyCode||0;this.key=a.key||"";this.ctrlKey=a.ctrlKey;this.altKey=a.altKey;this.shiftKey=a.shiftKey;this.metaKey=a.metaKey;this.pointerId=a.pointerId||0;this.pointerType="string"===typeof a.pointerType?a.pointerType:C[a.pointerType]||"";this.state=a.state;this.h=a;a.defaultPrevented&&D.j.g.call(this)}};n(D,A);var C={2:"touch",3:"pen",4:"mouse"};D.prototype.g=function(){D.j.g.call(this);var a=this.h;a.preventDefault?a.preventDefault():a.returnValue=!1};var E="closure_listenable_"+(1E6*Math.random()|0);var F=0;var G=function(a,b,c,d,e){this.listener=a;this.proxy=null;this.src=b;this.type=c;this.capture=!!d;this.h=e;this.key=++F;this.g=this.i=!1},H=function(a){a.g=!0;a.listener=null;a.proxy=null;a.src=null;a.h=null};var I=function(a){this.src=a;this.g={};this.h=0};I.prototype.add=function(a,b,c,d,e){var f=a.toString();a=this.g[f];a||(a=this.g[f]=[],this.h++);var g;a:{for(g=0;g<a.length;++g){var h=a[g];if(!h.g&&h.listener==b&&h.capture==!!d&&h.h==e)break a}g=-1}-1<g?(b=a[g],c||(b.i=!1)):(b=new G(b,this.src,f,!!d,e),b.i=c,a.push(b));return b};var J="closure_lm_"+(1E6*Math.random()|0),K={},L=0,N=function(a,b,c,d,e){if(d&&d.once)return M(a,b,c,d,e);if(Array.isArray(b)){for(var f=0;f<b.length;f++)N(a,b[f],c,d,e);return null}c=O(c);return a&&a[E]?a.g(b,c,m(d)?!!d.capture:!!d,e):P(a,b,c,!1,d,e)},P=function(a,b,c,d,e,f){if(!b)throw Error("a");var g=m(e)?!!e.capture:!!e,h=Q(a);h||(a[J]=h=new I(a));c=h.add(b,c,d,g,f);if(c.proxy)return c;d=R();c.proxy=d;d.src=a;d.listener=c;if(a.addEventListener)B||(e=g),void 0===e&&(e=!1),a.addEventListener(b.toString(),d,e);else if(a.attachEvent)a.attachEvent(S(b.toString()),d);else if(a.addListener&&a.removeListener)a.addListener(d);else throw Error("b");L++;return c},R=function(){var a=T,b=function(c){return a.call(b.src,b.listener,c)};return b},M=function(a,b,c,d,e){if(Array.isArray(b)){for(var f=0;f<b.length;f++)M(a,b[f],c,d,e);return null}c=O(c);return a&&a[E]?a.h(b,c,m(d)?!!d.capture:!!d,e):P(a,b,c,!0,d,e)},U=function(a){if("number"!==typeof a&&a&&!a.g){var b=a.src;if(b&&b[E])b.o(a);else{var c=a.type,d=a.proxy;b.removeEventListener?b.removeEventListener(c,d,a.capture):b.detachEvent?b.detachEvent(S(c),d):b.addListener&&b.removeListener&&b.removeListener(d);L--;if(c=Q(b)){d=a.type;if(d in c.g){var e=c.g[d],f=p(e,a),g;(g=0<=f)&&Array.prototype.splice.call(e,f,1);g&&(H(a),0==c.g[d].length&&(delete c.g[d],c.h--))}0==c.h&&(c.src=null,b[J]=null)}else H(a)}}},S=function(a){return a in K?K[a]:K[a]="on"+a},T=function(a,b){if(a.g)a=!0;else{b=new D(b,this);var c=a.listener,d=a.h||a.src;a.i&&U(a);a=c.call(d,b)}return a},Q=function(a){a=a[J];return a instanceof I?a:null},V="__closure_events_fn_"+(1E9*Math.random()>>>0),O=function(a){if("function"===typeof a)return a;a[V]||(a[V]=function(b){return a.handleEvent(b)});return a[V]};var v,u=document.documentElement,W;function X(){U(W);W=M(u,"mousedown",function(){w();Y()},{capture:!0})}function Y(){U(W);W=N(u,"keydown",function(a){if(9===a.keyCode){a=u;var b=v;if(a.classList)a.classList.add(b);else if(!t(a,b)){var c=q(a);r(a,c+(0<c.length?" "+b:b))}X()}})};v="zAoYTe";Y();}).call(this);(function(){var c=500;(function(){
+window.screen&&window.screen.width<=c&&window.screen.height<=c&&document.getElementById("hdr").classList.add("sml");}).call(this);})();
+   </script>
+   <div class="cOl4Id">
+    <a href="/?sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QOwgC">
+     <span class="V6gwVd">
+      G
+     </span>
+     <span class="iWkuvd">
+      o
+     </span>
+     <span class="cDrQ7">
+      o
+     </span>
+     <span class="V6gwVd">
+      g
+     </span>
+     <span class="ntlR9">
+      l
+     </span>
+     <span class="iWkuvd tJ3Myc">
+      e
+     </span>
+    </a>
+   </div>
+   <div class="bz1lBb">
+    <form class="Pg70bf" id="sf">
+     <a class="l" href="/?output=search&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QPAgE">
+      <span class="V6gwVd">
+       G
+      </span>
+      <span class="iWkuvd">
+       o
+      </span>
+      <span class="cDrQ7">
+       o
+      </span>
+      <span class="V6gwVd">
+       g
+      </span>
+      <span class="ntlR9">
+       l
+      </span>
+      <span class="iWkuvd tJ3Myc">
+       e
+      </span>
+     </a>
+     <input name="ie" type="hidden" value="ISO-8859-1"/>
+     <div class="H0PQec">
+      <div class="sbc esbc">
+       <input autocapitalize="none" autocomplete="off" class="noHIxc" name="q" spellcheck="false" type="text" value="Doge price"/>
+       <input name="oq" type="hidden"/>
+       <input name="aqs" type="hidden"/>
+       <div class="x">
+        ×
+       </div>
+       <div class="sc">
+       </div>
+      </div>
+     </div>
+     <button id="qdClwb" type="submit">
+     </button>
+    </form>
+   </div>
+   <noscript>
+    <meta content="0;url=/search?q=Doge+price&amp;ie=UTF-8&amp;gbv=1&amp;sei=BpauYd_qHOmUseMPufKt-A0" http-equiv="refresh"/>
+    <style>
+     table,div,span,p{display:none}
+    </style>
+    <div style="display:block">
+     Please click
+     <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;gbv=1&amp;sei=BpauYd_qHOmUseMPufKt-A0">
+      here
+     </a>
+     if you are not redirected within a few seconds.
+    </div>
+   </noscript>
+  </header>
+  <div id="main">
+   <div>
+    <div class="KP7LCb">
+     <div class="bRsWnc">
+      <div class="N6RWV">
+       <div class="Pg70bf Uv67qb">
+        <span class="OXXup">
+         All
+        </span>
+        <a class="eZt8xd" href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnms&amp;tbm=nws&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q_AUICCgB">
+         News
+        </a>
+        <a class="eZt8xd" href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnms&amp;tbm=bks&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q_AUICSgC">
+         Books
+        </a>
+        <a class="eZt8xd" href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnms&amp;tbm=shop&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q_AUICigD">
+         Shopping
+        </a>
+        <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q_AUICygE">
+         Images
+        </a>
+        <a href="https://maps.google.com/maps?q=Doge+price&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q_AUIDCgF">
+         Maps
+        </a>
+        <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnms&amp;tbm=vid&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q_AUIDSgG">
+         Videos
+        </a>
+        <div class="FElbsf">
+         <a href="/advanced_search" id="st-toggle" role="button" style="white-space:nowrap">
+          Search tools
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="Pg70bf wEsjbd ZINbbc xpd O9g5cc uUPGi" id="st-card" style="display:none">
+     <style>
+      .wEsjbd{background-color:#fff;height:44px;white-space:nowrap}.coPU8c{height:60px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Xj2aue{height:44px;overflow:hidden}.RnNGze{margin:11px 16px}.wEsjbd div,.wEsjbd a,.wEsjbd li{outline-width:0;outline:none}
+     </style>
+     <div class="Xj2aue">
+      <div class="coPU8c">
+       <div class="RnNGze">
+        <style>
+         .PA9J5{display:inline-block}.RXaOfd{display:inline-block;height:22px;position:relative;padding-top:0;padding-bottom:0;padding-right:16px;padding-left:0;line-height:22px;cursor:pointer;text-transform:uppercase;font-size:12px;color:#70757a}.sa1toc{display:none;position:absolute;background:#fff;border:1px solid #d6d6d6;box-shadow:0 2px 4px rgba(0,0,0,0.3);margin:0;white-space:nowrap;z-index:103;line-height:17px;padding-top:5px;padding-bottom:5px;padding-left:0}.PA9J5:hover .sa1toc{display:block}.mGSy8d a:active,.RXaOfd:active{color:#4285f4}
+        </style>
+        <div class="PA9J5">
+         <div class="RXaOfd" role="button" tabindex="0">
+          <style>
+           .TWMOUc{display:inline-block;padding-right:14px;white-space:nowrap}.vQYuGf{font-weight:bold}.OmTIzf{border-color:#909090 transparent;border-style:solid;border-width:4px 4px 0 4px;width:0;height:0;margin-left:-10px;top:50%;margin-top:-2px;position:absolute}.RXaOfd:active .OmTIzf{border-color:#4285f4 transparent}
+          </style>
+          <div class="TWMOUc">
+           Any time
+          </div>
+          <span class="OmTIzf">
+          </span>
+         </div>
+         <ul class="sa1toc ozatM">
+          <style>
+           .ozatM{font-size:12px;text-transform:uppercase}.ozatM .yNFsl,.ozatM li{list-style-type:none;list-style-position:outside;list-style-image:none}.yNFsl.SkUj4c,.yNFsl a{color:rgba(0,0,0,0.54);text-decoration:none;padding:6px 44px 6px 14px;line-height:17px;display:block}.SkUj4c{background-image:url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png);background-position:right center;background-repeat:no-repeat}.SkUj4c:active{background-color:#f8f9fa}
+          </style>
+          <li class="yNFsl SkUj4c">
+           Any time
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:h&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QpwUIDw">
+            Past hour
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:d&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QpwUIEA">
+            Past 24 hours
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QpwUIEQ">
+            Past week
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:m&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QpwUIEg">
+            Past month
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:y&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QpwUIEw">
+            Past year
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="PA9J5">
+         <div class="RXaOfd" role="button" tabindex="0">
+          <div class="TWMOUc">
+           All results
+          </div>
+          <span class="OmTIzf">
+          </span>
+         </div>
+         <ul class="sa1toc ozatM">
+          <li class="yNFsl SkUj4c">
+           All results
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=Doge+price&amp;ie=UTF-8&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QpwUIFQ">
+            Verbatim
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+      (function(){
+var a=document.getElementById("st-toggle"),b=document.getElementById("st-card");a&&b&&a.addEventListener("click",function(c){b.style.display=b.style.display?"":"none";c.preventDefault()},!1);}).call(this);
+     </script>
+    </div>
+   </div>
+   <style>
+    .ZINbbc{background-color:#fff;margin-bottom:10px;box-shadow:0 1px 6px rgba(32, 33, 36, 0.28);border-radius:8px}.uUPGi{font-size:14px;line-height:20px;}.O9g5cc>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.O9g5cc>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.O9g5cc>.qxDOhb>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.O9g5cc>.qxDOhb>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.kCrYT{padding:12px 16px 12px}.BNeawe{white-space:pre-line;word-wrap:break-word}.tAd8D{font-size:14px;line-height:20px}.tAd8D.HrGdeb{color:rgba(255,255,255,.70)}.tAd8D.AP7Wnd{color:#70757a}.xUrNXd.VyZZLb{color:rgba(255,255,255,.70)}.xUrNXd.UMOHqf{color:#70757a}.x54gtf{height:1px;background-color:#dfe1e5;margin:0 16px}.Q0HXG{height:1px;background-color:#dfe1e5}.lnWbdd{display:table;width:100%}.kvKEAb{display:table-cell;vertical-align:top}.nXE3Ob{padding-top:12px}.iafz5e{float:right;padding-left:16px}.zv7zOb{border-radius:8px;display:block}.Ey4n2{padding-bottom:12px}.iBp4i{font-size:24px;line-height:28px;font-weight:400}.iBp4i.HrGdeb{color:#fff}.iBp4i.AP7Wnd{color:#202124}.uEec3{font-size:12px;line-height:16px}.uEec3.HrGdeb{color:rgba(255,255,255,.70)}.uEec3.AP7Wnd{color:#70757a}a.fdYsqf{color:#4b11a8}.rl7ilb{display:block;clear:both}.l97dzf{font-weight:400}.zBAuLc{line-height:normal;margin:0;padding:0}.vvjwJb{color:#1967D2;font-size:16px;line-height:20px}a:visited .vvjwJb,.vvjwJb a:visited{color:#4B11A8}.vvjwJb.HrGdeb{color:#fff}a:visited .vvjwJb.HrGdeb,.vvjwJb.HrGdeb a:visited{color:rgba(255,255,255,.70)}.UPmit{font-size:14px;line-height:20px}.UPmit.HrGdeb{color:rgba(255,255,255,.70)}.UPmit.AP7Wnd{color:#0d652d}.s3v9rd{font-size:14px;line-height:20px}.s3v9rd.HrGdeb{color:#fff}.s3v9rd.AP7Wnd{color:#202124}.yRG22b{padding-left:48px;margin:0}.MSiauf{padding-bottom:8px}.ZTv9Bb{display:block}.nVTMpe{border-radius:8px}.deIvCb{font-size:16px;line-height:20px;font-weight:400}.deIvCb.HrGdeb{color:#fff}.deIvCb.AP7Wnd{color:#202124}.atOwb{font-weight:bold}.X7NTVe{display:table;width:100%;padding-right:16px;box-sizing:border-box}.tHmfQe{display:table-cell;padding:12px 0 12px 16px}.UHtrk{width:72px}.HBTM6d{width:30px}.XS7yGd{display:table-cell;text-align:center;vertical-align:middle;padding:12px 0 12px 8px}.am3QBf{display:table;vertical-align:top}.EDgFbc{color:#1967D2}a:visited .EDgFbc{color:#4B11A8}.EDgFbc.VyZZLb{color:#fff}a:visited .EDgFbc.VyZZLb{color:rgba(255,255,255,.70)}.VbKY9d{color:#006621}.mEUgP{font-weight:bold;font-size:16px;color:#000;margin:0;padding:12px 16px 12px}.C7GS5b{margin-left:12px;display:table-cell;vertical-align:middle}.rkGIWe{padding:14px}.xpc .hwc,.xpx .hwx{display:none}.iIWm4b{box-sizing:border-box;min-height:48px}.fLtXsc{padding:14px;position:relative}.NtmAdb{width:40px;height:40px;overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px}.xpc .NtmAdb{display:inline-block}.xpx .NtmAdb{display:none}.EYOsld{display:inline-block;position:relative}.SXn0g{overflow:hidden}.GXKcHe{display:inline-block}.p1CInd{position:relative}.Lt3Tzc{display:inline-block;padding-right:26px}.Lym8W{width:14px;height:20px;position:relative;margin:0 auto}.xCgLUe{position:absolute;right:16px;margin-top:-10px;top:50%}.Lym8W div{position:absolute;border-left:7px solid transparent;border-right:7px solid transparent;width:0;height:0;left:0}.IyYaEd{top:7px;border-top:7px solid #70757a}.ECUHQe{top:4px;border-top:7px solid #fff}.AeQQub{bottom:7px;border-bottom:7px solid #70757a}.YCU7eb{bottom:4px;border-bottom:7px solid #fff}.AzWLW .xpd{box-shadow:none;border:none;margin-bottom:0;margin-top:-16px}.FybcKc{padding-top:16px}.Xdlr0d{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -8px;padding:2px 0 16px 24px;margin-top:-2px;transform:translate3d(0,0,0)}.idg8be{display:table;border-collapse:separate;border-spacing:8px 0;margin:0 -8px;padding-right:16px}.BVG0Nb{display:table-cell;vertical-align:top;background-color:#fff;border-radius:8px;box-shadow:0 1px 6px rgba(32, 33, 36, 0.28);overflow:hidden}.BFi9Zb{overflow:hidden;position:relative}.S7Jdze{align-items:center;display:flex;flex-direction:column;justify-content:space-around}.R0jTRc{vertical-align:middle}.mHhylf{display:table-cell;vertical-align:middle}.WZ5GJf{align-items:center;padding:0 20px;min-width:112px}.qN9Ked,.DXk5Me{margin:0 auto}.DXk5Me{margin-bottom:12px}.Dk7jOe{display:block;margin:0 auto}.Qi9Fd{background:#fff;border:0;border-radius:999px;display:block;height:56px;justify-content:center;width:56px;z-index:0}.Qi9Fd{box-shadow:0 1px 6px rgba(32, 33, 36, 0.28),inset 0 0 0 0 rgba(0,0,0,0.10),inset 0 0 0 0 rgba(255,255,255,0.50)}.Qi9Fd:focus{outline:none}.Qi9Fd .hWHuJ{display:block;margin:0 auto}.ji5jpf{text-align:center}.P1NWSe{display:table;width:100%;padding-top:16px;padding-bottom:16px;margin-bottom:-12px}.wOMIed{display:table-cell;vertical-align:top}.nkPlDb{vertical-align:middle}.JhFlyf{color:#3c4043;font-size:14px;text-align:center}.VQFmSd{display:block;white-space:pre-line;word-wrap:break-word}.JhFlyf.VQFmSd{line-height:20px}.MHODM,.MHODM:visited{color:inherit}.f4J0H{padding:18px}.qxDOhb{border-radius:0}.gGQDvd{padding:14px;position:relative}.Q71vJc{display:block;position:relative;width:100%}.kjGX2{position:absolute;left:48px;right:0;vertical-align:bottom;display:inline-block;color:#3c4043}.ieB2Dd{width:40px;height:40px;overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px;display:inline-block;border-radius:50%;}.LsF2v span{color:#fff;mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABa0lEQVR4AeyWtUIYQRBAX6yLu0uH08Q9ZfInNHF36UKFlHwHNLi7u2uNN9hgg3PsCVtx753fzOkalgkJieErOXQwsWAHOXwjZjcvXohsYy7xBOYgycwhDs6RzEECcJZyxGA5Z/HJIUoQVAp4z22OL3ibdxs+WgmH8EUqorZzl83cpR1RU/FBDKI2cMrhAzYgaiyeydDUQc7hxDkGNSoDj1xH1CfsxDNEvYEnXmtaNiayNPK1vw+UgIkEfx+pRdOiMRGlkS14YlLTjmHimEZO4IlxTTuCiSMaOYkn2jQtChORGtlr+ycX4YlXrotptkb+wxM3XFa0J4j60E5TMaRRNXgmHlEbOevQ2DUi6gt8kGJorjsQNW23OpxbnOQEt3lPMYLKNJdsdpkjuv5lo9MX/nMBUT/jk3iHYUs9zwGQ4LeAaHTgxTgtpPOLpyj8Dn4LE4l79RbhLV7bvsVnsHmLz1gk0e7lQ0LmRzMAAAU5VLMEuZJZAAAAAElFTkSuQmCC)}.lRVwie{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.rLshyf,.BmP5tf{padding-top:12px;padding-bottom:12px}.YOx3Ab{padding-left:16px;}.w1C3Le,.BmP5tf,.G5NbBd,.CS4w5b{padding-left:16px;padding-right:16px;}.G5NbBd{padding-bottom:12px}.CS4w5b{padding-top:12px}.nMymef{display:flex}.G5eFlf{flex:1;display:block}.nMymef span{text-align:center}
+   </style>
+   <div>
+    <!--SW_C_X-->
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <span>
+       <span class="BNeawe tAd8D AP7Wnd">
+        <span class="xUrNXd UMOHqf">
+         1 Dogecoin =
+        </span>
+       </span>
+      </span>
+     </div>
+     <div class="Q0HXG">
+     </div>
+     <div>
+      <div>
+       <div>
+        <div class="kCrYT">
+         <div>
+          <div>
+           <div>
+            <div class="BNeawe iBp4i AP7Wnd">
+             <div>
+              <div class="BNeawe iBp4i AP7Wnd">
+               0.18 United States Dollar
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="nXE3Ob">
+           <span>
+            <div class="BNeawe uEec3 AP7Wnd">
+             <span class="BNeawe">
+              <a href="https://g.co/gfd">
+               <span class="uEec3 AP7Wnd">
+                Disclaimer
+               </span>
+              </a>
+             </span>
+            </div>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.coinbase.com/price/dogecoin&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAUQAg&amp;usg=AOvVaw1nMrhD_pMW4RygHHD-ju67">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin (DOGE) Price, Charts, and News | Coinbase
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.coinbase.com › price › dogecoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           December 6, 2021 - The current price of Dogecoin is $0.1749 per (DOGE / USD). Dogecoin is 76.36% below the all time high of $0.74.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://coinmarketcap.com/currencies/dogecoin/&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAcQAg&amp;usg=AOvVaw3mMR8tTOCL3Os2PtaJ97ZS">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin price today, DOGE to USD live, marketcap and chart
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        coinmarketcap.com › currencies › dogecoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           The live Dogecoin price today is $0.179079 USD with a 24-hour trading volume of $1,896,693,895 USD. We update our DOGE to USD price in real-time.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.coindesk.com/price/dogecoin/&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAYQAg&amp;usg=AOvVaw3cBL4nFzNJSWCT7o7hb5re">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin Price | DOGE Price Index and Live Chart - CoinDesk
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.coindesk.com › price › dogecoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Features DOGE USD price, real-time (live) charts, dogecoin news and videos. Learn about the dogecoin price, crypto trading and more.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://finance.yahoo.com/quote/DOGE-USD/&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAgQAg&amp;usg=AOvVaw0kdQd3FxvgTVFleDTGmyXA">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin USD (DOGE-USD) Price, Value, News &amp; History
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        finance.yahoo.com › quote › DOGE-USD
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Find the latest Dogecoin USD (DOGE-USD) price quote, history, news and other vital information to help you with your cryptocurrency trading and investing.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <div class="q4vBJc">
+      </div>
+      <span>
+       <h2 class="zBAuLc l97dzf">
+        <div class="BNeawe deIvCb AP7Wnd">
+         <span class="atOwb UMOHqf">
+          Top stories
+         </span>
+        </div>
+       </h2>
+      </span>
+     </div>
+     <div class="Q0HXG">
+     </div>
+     <div class="X7NTVe">
+      <a class="tHmfQe" href="/url?q=https://www.fxstreet.com/cryptocurrencies/news/dogecoin-price-correction-slows-down-as-doge-bears-book-profits-202112061500&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QqOcBegQICRAC&amp;usg=AOvVaw2KrSs8Lg01AyQmCJmnD8-X">
+       <div class="am3QBf">
+        <div>
+         <span>
+          <h3 class="zBAuLc l97dzf">
+           <div class="BNeawe deIvCb AP7Wnd">
+            <span class="UMOHqf EDgFbc">
+             Dogecoin price correction slows down as DOGE bears book profits
+            </span>
+           </div>
+          </h3>
+         </span>
+         <span>
+          <div class="BNeawe tAd8D AP7Wnd">
+           <span class="UMOHqf VbKY9d">
+            FXStreet
+           </span>
+           · 7 hours ago
+          </div>
+         </span>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="Q0HXG">
+     </div>
+     <div class="X7NTVe">
+      <a class="tHmfQe" href="/url?q=https://www.digitaljournal.com/tech-science/price-prediction-dogecoin-teases-20-jump-and-huh-token-to-surge-on-debut/article&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QqOcBegQICRAF&amp;usg=AOvVaw2PnYTT4Sk-k587SIs4hYnM">
+       <div class="am3QBf">
+        <div>
+         <span>
+          <h3 class="zBAuLc l97dzf">
+           <div class="BNeawe deIvCb AP7Wnd">
+            <span class="UMOHqf EDgFbc">
+             Price prediction: Dogecoin teases 20% jump and HUH Token to surge on debut
+            </span>
+           </div>
+          </h3>
+         </span>
+         <span>
+          <div class="BNeawe tAd8D AP7Wnd">
+           <span class="UMOHqf VbKY9d">
+            Digital Journal
+           </span>
+           · 14 hours ago
+          </div>
+         </span>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="Q0HXG">
+     </div>
+     <div class="X7NTVe">
+      <a class="tHmfQe" href="/url?q=https://www.fxstreet.com/cryptocurrencies/news/dogecoin-falls-36-and-rallies-as-doge-looks-for-massive-reversal-to-039-202112041741&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QqOcBegQICRAI&amp;usg=AOvVaw3jy4gx8Jwa3cHT3AlerIGb">
+       <div class="am3QBf">
+        <div>
+         <span>
+          <h3 class="zBAuLc l97dzf">
+           <div class="BNeawe deIvCb AP7Wnd">
+            <span class="UMOHqf EDgFbc">
+             Dogecoin falls 36% and rallies as DOGE looks for massive reversal to $0.39
+            </span>
+           </div>
+          </h3>
+         </span>
+         <span>
+          <div class="BNeawe tAd8D AP7Wnd">
+           <span class="UMOHqf VbKY9d">
+            FXStreet
+           </span>
+           · 2 days ago
+          </div>
+         </span>
+        </div>
+       </div>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.coingecko.com/en/coins/dogecoin&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAMQAg&amp;usg=AOvVaw0m_HOGnbQvXHJTFG32xizg">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin (DOGE) price today, chart, market cap &amp; news | CoinGecko
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.coingecko.com › coins › dogecoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Dogecoin price today is $0.168536 with a 24-hour trading volume of $1,646,186,364. DOGE price is down -4.3% in the last 24 hours. It has a circulating ...
+           <br/>
+           <br/>
+           DOGE Price:
+           <span class="xUrNXd UMOHqf">
+            $0.168278
+           </span>
+           <br/>
+           Volume / Market Cap:
+           <span class="xUrNXd UMOHqf">
+            0.0713
+           </span>
+           <br/>
+           Market Cap Dominance:
+           <span class="xUrNXd UMOHqf">
+            0.94%
+           </span>
+           <br/>
+           Market Cap Rank:
+           <span class="xUrNXd UMOHqf">
+            #11
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://crypto.com/price/dogecoin&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAEQAg&amp;usg=AOvVaw0Lcv8E-Yx80ePSpmyaa7BK">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin Price | DOGE Price, USD converter, Charts | Crypto.com
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        crypto.com › price › dogecoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Dogecoin's price today is 0.1712 USD, with a 24-hour trading volume of 1,955,708,219.38 USD. DOGE is up 0.00% in the last 24 hours.DOGE has a circulating ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://economictimes.indiatimes.com/markets/cryptocurrency/dogecoin-price/cryptodetail/symbol-doge.cms&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAQQAg&amp;usg=AOvVaw1z4G2rRJ4nQh4LxffuMrGX">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin price live today - The Economic Times
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        economictimes.indiatimes.com › Markets › Cryptocurrency
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           <span class="xUrNXd UMOHqf">
+            3 days ago
+           </span>
+           <span class="xUrNXd UMOHqf">
+            ·
+           </span>
+           Dogecoin price live updates on The Economic Times. Check out why Dogecoin price is up today. Get detailed Dogecoin cryptocurrency price news ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.fool.com/quote/crypto/doge/&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAAQAg&amp;usg=AOvVaw2CWA2MheVY57SgAlfWVB-A">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Dogecoin (DOGE) Stock Price, News &amp; Info | The Motley Fool
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.fool.com › quote › crypto › doge
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Real time Dogecoin (DOGE) stock price quote, stock graph, news &amp; analysis.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://robinhood.com/crypto/DOGE&amp;sa=U&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QFnoECAIQAg&amp;usg=AOvVaw3E7kJhplDTgo8PZnp98HgT">
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Buy Dogecoin - DOGE Price Today, Live Charts and News
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        robinhood.com › Crypto
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Buy Dogecoin with $1 - DOGE $0.1785, Dec 6, 2021. Invest in DOGE cryptocurrency with Robinhood in the easiest and fastest way.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div>
+     </div>
+     <div class="mEUgP">
+      <span>
+       <div class="BNeawe">
+        Related searches
+       </div>
+      </span>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div>
+       <div class="xpx">
+        <div class="duf-h">
+         <div aria-expanded="true" class="fLtXsc iIWm4b" data-ved="2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q3aYDegQIChAC" id="tsuid1" role="button" tabindex="0">
+          <div class="NtmAdb">
+           <div class="SXn0g GXKcHe">
+            <div style="width:40px;height:40px;position:static">
+             <img alt="" class="EYOsld" data-deferred="1" id="dimg_2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:40px;height:40px"/>
+            </div>
+           </div>
+          </div>
+          <div class="Lt3Tzc">
+           Cryptocurrency websites
+          </div>
+          <div class="Lym8W xCgLUe">
+           <div class="AeQQub hwc">
+           </div>
+           <div class="YCU7eb hwc">
+           </div>
+           <div class="IyYaEd hwx">
+           </div>
+           <div class="ECUHQe hwx">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+         <div class="hwc" style="padding-bottom:12px">
+          <div class="AzWLW">
+           <div class="ZINbbc xpd O9g5cc uUPGi">
+            <div class="FybcKc">
+             <div>
+              <div>
+               <div class="Xdlr0d">
+                <div class="idg8be">
+                 <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Coinbase&amp;stick=H4sIAAAAAAAAAOOQUeLSz9U3KC8yLswqNBJPLqosKMlPLi0qSs1LrlQoT00qzixJLY7icslPT1UoKMpMTj3FiKTjFCM3iGNoZJydlF5yipFXP13f0DAjucqwyKQ8B8ZPT09KSkszsvzFKO6M3YIGFsZFrBzO-Zl5SYnFqbfYJBluzOQy9RNtdtxXdfDcvrXzrhsej_n_Ze3FIAAv3bDtsgAAAA&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAF">
+                  <div>
+                   <div style="width:112px">
+                    <div class="S7Jdze" style="width:112px;height:112px">
+                     <img alt="" class="EYOsld" data-deferred="1" id="dimg_4" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                    </div>
+                    <div class="RWuggc kCrYT">
+                     <div>
+                      <div class="BNeawe s3v9rd AP7Wnd">
+                       Coinbase
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </a>
+                 <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=CoinDesk&amp;stick=H4sIAAAAAAAAAOOQUeLWz9U3MDQyzk5KLzESTy6qLCjJTy4tKkrNS65UKE9NKs4sSS2O4nLJT09VKCjKTE49xcgF0lJeZFyYVXiKEVn_KUZe_XR9Q8OM5CrDIpPyHBg_PT0pKS3NyPIXo7gzdgsaWBgXsXI452fmuaQWZ99ik2S4MZPL1E-02XFf1cFz-9bOu254POb_l7UXgwB1RjZCswAAAA&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAG">
+                  <div>
+                   <div style="width:112px">
+                    <div class="S7Jdze" style="width:112px;height:112px">
+                     <img alt="" class="EYOsld" data-deferred="1" id="dimg_6" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                    </div>
+                    <div class="RWuggc kCrYT">
+                     <div>
+                      <div class="BNeawe s3v9rd AP7Wnd">
+                       CoinDesk
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </a>
+                 <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Binance&amp;stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxIrjIsMinPMRJPLqosKMlPLi0qSs1LrlQoT00qzixJLY7icslPT1UoKMpMTj3FyKWfq29QXmRcmFV4ipEbxDE0Ms5OSi85xYhqHoyfnp6UlJZmZPmLUdwZuwUNLIyLWNmdMvMS85JTb7FJMtyYyWXqJ9rsuK_q4Ll9a-ddNzwe8__L2otBAAOWE1O0AAAA&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAH">
+                  <div>
+                   <div style="width:112px">
+                    <div class="S7Jdze" style="width:112px;height:112px">
+                     <img alt="" class="EYOsld" data-deferred="1" id="dimg_8" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                    </div>
+                    <div class="RWuggc kCrYT">
+                     <div>
+                      <div class="BNeawe s3v9rd AP7Wnd">
+                       Binance
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </a>
+                 <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Bittrex&amp;stick=H4sIAAAAAAAAAOOQUeLVT9c3NExPT0pKSzOyNBJPLqosKMlPLi0qSs1LrlQoT00qzixJLY7icslPT1UoKMpMTj3FyKWfq29QXmRcmFV4ipEbxDE0Ms5OSi85xQgxLyO5yrDIpDwHxoeZ_4tR3Bm7BQ0sjItY2Z0yS0qKUitusUky3JjJZeon2uy4r-rguX1r5103PB7z_8vai0EADbZM37QAAAA&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAI">
+                  <div>
+                   <div style="width:112px">
+                    <div class="S7Jdze" style="width:112px;height:112px">
+                     <img alt="" class="EYOsld" data-deferred="1" id="dimg_10" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                    </div>
+                    <div class="RWuggc kCrYT">
+                     <div>
+                      <div class="BNeawe s3v9rd AP7Wnd">
+                       Bittrex
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </a>
+                 <div class="mHhylf">
+                  <div class="WZ5GJf">
+                   <a class="qN9Ked" href="/search?ie=UTF-8&amp;q=Cryptocurrency+websites&amp;stick=H4sIAAAAAAAAAOOQMRJPLqosKMlPLi0qSs1LrlQoT00qzixJLY7icslPT1UoKMpMTj3FyKWfq29QXmRcmFV4ipEbxDE0Ms5OSi85xcirn65vaJiRXGVYZFKeA-OnpyclpaUZWf5iFHfGbkEDC-MiVlySt9gkGW7M5DL1E2123Fd18Ny-tfOuGx6P-f9l7cUgAP5Ed5m1AAAA&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QzO0BegQIChAJ">
+                    <button class="DXk5Me Qi9Fd" tabindex="-1">
+                     <span class="hWHuJ">
+                      <img alt="" class="Dk7jOe" data-deferred="1" id="dimg_12" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:24px;max-height:24px"/>
+                     </span>
+                    </button>
+                    <div class="BNeawe ji5jpf tAd8D AP7Wnd">
+                     More results
+                    </div>
+                   </a>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="P1NWSe">
+            <div class="wOMIed nkPlDb">
+             <span class="JhFlyf VQFmSd">
+              <a class="f4J0H MHODM" href="/search?ie=UTF-8&amp;q=Cryptocurrency+websites&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q4qYDegQIChAK">
+               Cryptocurrency websites
+              </a>
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div>
+       <div class="xpc">
+        <div class="duf-h">
+         <div aria-expanded="false" class="fLtXsc iIWm4b" data-ved="2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q3aYDegQIChAM" id="tsuid14" role="button" tabindex="0">
+          <div class="NtmAdb">
+           <div class="SXn0g GXKcHe">
+            <div style="width:40px;height:40px;position:static">
+             <img alt="" class="EYOsld" data-deferred="1" id="dimg_15" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:40px;height:40px"/>
+            </div>
+           </div>
+          </div>
+          <div class="Lt3Tzc">
+           Most profitable cryptocurrency
+          </div>
+          <div class="Lym8W xCgLUe">
+           <div class="AeQQub hwc">
+           </div>
+           <div class="YCU7eb hwc">
+           </div>
+           <div class="IyYaEd hwx">
+           </div>
+           <div class="ECUHQe hwx">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="qxDOhb" id="accdef_17">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div>
+       <div class="xpc">
+        <div class="duf-h">
+         <div aria-expanded="false" class="fLtXsc iIWm4b" data-ved="2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q3aYDegQIChAW" id="tsuid21" role="button" tabindex="0">
+          <div class="NtmAdb">
+           <div class="SXn0g GXKcHe">
+            <div style="width:40px;height:40px;position:static">
+             <img alt="" class="EYOsld" data-deferred="1" id="dimg_22" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:40px;height:40px"/>
+            </div>
+           </div>
+          </div>
+          <div class="Lt3Tzc">
+           Crypto terms
+          </div>
+          <div class="Lym8W xCgLUe">
+           <div class="AeQQub hwc">
+           </div>
+           <div class="YCU7eb hwc">
+           </div>
+           <div class="IyYaEd hwx">
+           </div>
+           <div class="ECUHQe hwx">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="qxDOhb" id="accdef_24">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Dogecoin&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECA">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Dogecoin
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Dogecoin+price+prediction&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECI">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Dogecoin price prediction
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Shiba+Inu+coin+price&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECQ">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Shiba Inu coin price
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Live+Dogecoin+price&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECY">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Live Dogecoin price
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Dogecoin+price+in+India&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECg">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Dogecoin price in India
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Bitcoin+price&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECo">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Bitcoin price
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=Baby+Doge+price&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKECw">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Baby Doge price
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" href="/search?ie=UTF-8&amp;q=How+to+buy+Dogecoin&amp;sa=X&amp;ved=2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q1QJ6BAgKEC4">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd WqQeqc LsF2v">
+          <span>
+          </span>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           How to buy Dogecoin
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer>
+    <div>
+     <div class="ZINbbc xpd O9g5cc uUPGi BmP5tf">
+      <div class="nMymef MUxGbd lyLwlc">
+       <a aria-label="Next page" class="nBDE1b G5eFlf" href="/search?q=Doge+price&amp;ie=UTF-8&amp;ei=BpauYd_qHOmUseMPufKt-A0&amp;start=10&amp;sa=N">
+        Next &gt;
+       </a>
+      </div>
+     </div>
+    </div>
+    <div id="EOlPnc">
+     <div class="Srfpq">
+      <span class="unknown_loc">
+      </span>
+      <span id="xxxXMc">
+       92804, Anaheim, CA
+      </span>
+      <span id="ttWoPb">
+       -
+      </span>
+      <span>
+       From your IP address
+      </span>
+      <span>
+       -
+      </span>
+      <a href="/url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den&amp;sa=U&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qty4IfQ&amp;usg=AOvVaw1pQYwW6L76cDj8Kq9wJTn_">
+       Learn more
+      </a>
+     </div>
+     <div>
+      <a href="/url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fq%253DDoge%252Bprice%26hl%3Den&amp;sa=U&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qxs8CCH4&amp;usg=AOvVaw3K_7CNs6b8PmbtCjlTKJe4">
+       Sign in
+      </a>
+     </div>
+     <div>
+      <a class="xeDNfc" href="https://www.google.com/preferences?hl=en&amp;fg=1&amp;sa=X&amp;ved=0ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q5fUCCH8">
+       Settings
+      </a>
+      <a class="xeDNfc" href="https://policies.google.com/privacy?hl=en&amp;fg=1">
+       Privacy
+      </a>
+      <a class="xeDNfc" href="https://policies.google.com/terms?hl=en&amp;fg=1">
+       Terms
+      </a>
+     </div>
+    </div>
+   </footer>
+   <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+    (function(){var hl='en';(function(){
+var f=this||self,g=function(a){return a};var h,k=function(){if(void 0===h){var a=null,b=f.trustedTypes;if(b&&b.createPolicy){try{a=b.createPolicy("goog#html",{createHTML:g,createScript:g,createScriptURL:g})}catch(c){f.console&&f.console.error(c.message)}h=a}else h=a}return h};var n=function(a,b){this.h=a===l&&b||"";this.g=m},p=function(a){return a instanceof n&&a.constructor===n&&a.g===m?a.h:"type_error:Const"},m={},l={};var r=function(a,b){this.g=b===q?a:""};r.prototype.toString=function(){return this.g+""};var t=function(a){return a instanceof r&&a.constructor===r?a.g:"type_error:TrustedResourceUrl"},x=function(){var a={},b=p(new n(l,"/complete/search"));if(!u.test(b))throw Error("a`"+b);var c=b.replace(v,function(e,d){if(!Object.prototype.hasOwnProperty.call(a,d))throw Error("b`"+d+"`"+b+"`"+JSON.stringify(a));e=a[d];return e instanceof n?p(e):encodeURIComponent(String(e))});return w(c)},v=/%{(\w+)}/g,u=RegExp("^((https:)?//[0-9a-z.:[\\]-]+/|/[^/\\\\]|[^:/\\\\%]+/|[^:/\\\\%]*[?#]|about:blank#)","i"),y=/^([^?#]*)(\?[^#]*)?(#[\s\S]*)?/,q={},w=function(a){var b=k();a=b?b.createScriptURL(a):a;return new r(a,q)},z=function(a,b,c){if(null==c)return b;if("string"===typeof c)return c?a+encodeURIComponent(c):"";for(var e in c)if(Object.prototype.hasOwnProperty.call(c,e)){var d=c[e];d=Array.isArray(d)?d:[d];for(var D=0;D<d.length;D++){var P=d[D];null!=P&&(b||(b=a),b+=(b.length>a.length?"&":"")+encodeURIComponent(e)+"="+encodeURIComponent(String(P)))}}return b};var A={},B=function(a,b,c){this.g=c===A?a:""};B.prototype.toString=function(){return this.g.toString()};var C=function(a){var b=k();a=b?b.createHTML(a):a;return new B(a,null,A)};
+function E(a,b){if(null!==a&&void 0!==a.tagName){if("script"===a.tagName.toLowerCase())throw Error("c");if("style"===a.tagName.toLowerCase())throw Error("d");}a.innerHTML=b instanceof B&&b.constructor===B?b.g:"type_error:SafeHtml"};var F=document.querySelector(".l"),G=document.querySelector("#sf"),H=G.querySelector(".sbc"),I=G.querySelector("[type=text]"),J=G.querySelector("[type=submit]"),K=G.querySelector(".sc"),L=G.querySelector(".x"),M=I.value,N=[],O=-1,Q=M,R,S,T;M||(L&&(L.style.display="none"),U(!1));function U(a){if(H.classList.contains("esbc")){var b=H.classList.contains("chsbc"),c=H.classList.contains("rtlsbc");a&&(K.style.display="block",b?(G.style.borderRadius="20px 20px 0 0",K.style.borderBottom="1px solid #DFE1E5",J.style.borderRadius=c?"20px 0 0 0":"0 20px 0 0"):H.style.borderRadius=c?"0 8px 0 0":"8px 0 0 0");a||(K.style.display="none",b?(G.style.borderRadius="20px",K.style.borderBottom="none",J.style.borderRadius=c?"20px 0 0 20px":"0 20px 20px 0"):H.style.borderRadius=c?"0 8px 8px 0":"8px 0 0 8px")}}function V(){G.querySelector("[name=oq]").value=Q;G.querySelector("[name=aqs]").value="heirloom-srp."+(0<=O?O:"")+"."+(0<N.length?"0l"+N.length:"")}
+function W(){R=null;if(S){var a={client:"heirloom-srp",hl:hl,json:"t",callback:"hS",q:S};"undefined"!==typeof ds&&ds&&(a.ds=ds);var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);b=x();b=y.exec(t(b).toString());var e=b[3]||"";a=w(b[1]+z("?",b[2]||"",a)+z("#",e,void 0));c.src=t(a);var d;a=(c.ownerDocument&&c.ownerDocument.defaultView||window).document;(d=(b=null===(d=a.querySelector)||void 0===d?void 0:d.call(a,"script[nonce]"))?b.nonce||
+b.getAttribute("nonce")||"":"")&&c.setAttribute("nonce",d);document.body.appendChild(c);S=null;R=setTimeout(W,500)}}function X(){for(;K.firstChild;)K.removeChild(K.firstChild);N=[];O=-1;U(!1)}function Y(){var a=K.querySelector(".scs");a&&(a.className="");0<=O?(a=K.childNodes[O],a.className="scs",M=a.textContent):M=Q;I.value=M}I.addEventListener("focus",function(){F&&(F.style.display="none")},!1);I.addEventListener("blur",function(){X();F&&(F.style.display="")},!1);I.addEventListener("keyup",function(a){M=I.value;T=!1;13==a.which?V():27==a.which?(X(),F&&(F.style.display=""),M=Q,I.value=M):40==a.which?(O++,O>=N.length&&(O=-1),Y()):38==a.which?(O--,-1>O&&(O=N.length-1),Y()):(a=M)?(L&&(L.style.display=""),S=a,R||W(),Q=a):(L&&(L.style.display="none"),U(!1),X(),Q="",T=!0)},!1);J.addEventListener("click",V,!1);L.addEventListener("click",function(){I.value="";L.style.display="none";U(!1)},!1);H.addEventListener("click",function(){I.focus()},!1);window.hS=function(a){if(!T){X();0==a[1].length&&U(!1);for(var b=0;b<a[1].length;b++){var c=a[1][b][0],e=document.createElement("div");E(e,C(c));e.addEventListener("mousedown",function(d){d.preventDefault();return!1},!1);c=c.replace(/<\/?b>/g,"");e.addEventListener("click",function(d){return function(){O=d;V();Y();X();G.submit()}}(b),!1);e.addEventListener("mouseover",function(d){return function(){O!=d&&(O=d,Y())}}(b),!1);K.appendChild(e);U(!0);N.push(c)}}};}).call(this);})();(function(){
+function b(a){for(a=a.target||a.srcElement;a&&"A"!=a.nodeName;)a=a.parentElement;a&&(a.href||"").match(/\/search.*[?&]tbm=isch/)&&(a.href+="&biw="+document.documentElement.clientWidth,a.href+="&bih="+document.documentElement.clientHeight)}document.addEventListener("click",b,!1);document.addEventListener("touchStart",b,!1);}).call(this);
+   </script>
+  </div>
+  <!-- cctlcm 5 cctlcm -->
+  <textarea class="csi" name="csi" style="display:none"></textarea>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var e='BpauYd_qHOmUseMPufKt-A0';var sn='web';var timl=false;(function(){
+function y(a){if(!a||z(a))return 0;if(!a.getBoundingClientRect)return 1;var c=function(b){return b.getBoundingClientRect()};return A(a,c)?0:I(a,c)}function A(a,c){var b;a:{for(b=a;b&&null!==b;b=b.parentElement)if("hidden"===b.style.overflow)break a;b=null}if(!b)return!1;a=c(a);c=c(b);return a.bottom<c.top||a.top>=c.bottom||a.right<c.left||a.left>=c.right}
+function z(a){return"none"===a.style.display?!0:document.defaultView&&document.defaultView.getComputedStyle?(a=document.defaultView.getComputedStyle(a),!!a&&("hidden"===a.visibility||"0px"===a.height&&"0px"===a.width)):!1}
+function I(a,c){var b=c(a);a=b.left+window.pageXOffset;c=b.top+window.pageYOffset;var f=b.width;b=b.height;var g=0;if(0>=b&&0>=f)return g;var p=window.innerHeight||document.documentElement.clientHeight;0>c+b?g=2:c>=p&&(g=4);if(0>a+f||a>=(window.innerWidth||document.documentElement.clientWidth))g|=8;g||(g=1,c+b>p&&(g|=4));return g};var J=e,K=sn,L="undefined"===typeof de?!0:!1!==de,M=[];function N(a,c,b){a="/gen_204?atyp=csi&s="+(K||"web")+"&t="+a+("&lite=1&ei="+J+"&conn="+(window.navigator&&window.navigator.connection?window.navigator.connection.type:-1)+c);c="&rt=";for(var f in b)a+=""+c+f+"."+b[f],c=",";return a}function O(a){a={prt:a};window.wsrt&&(a.wsrt=window.wsrt);return a}function P(a){window.ping?window.ping(a):(new Image).src=a}
+(function(){for(var a=(new Date).getTime()-window.start,c=O(a),b=0,f=0,g=0,p=document.getElementsByTagName("img"),q=L?"&biw="+window.innerWidth+"&bih="+window.innerHeight:"",Q=function(h,r){h.onload=function(){f=(new Date).getTime()-window.start;r&&++u==g&&(b=f,B());h.onload=null}},B=function(){q+="&ima="+g;c.aft=b;P(N("aft",q,c))},u=0,R=0,d=void 0;d=p[R++];){var t=y(d),n=!!(t&1);n&&++g;var m=d.hasAttribute("data-ilite"),v=d.hasAttribute("data-deferred")||m,C=d.getAttribute("data-src")||d.getAttribute("data-lzysrc"),D=!v&&C;M.push([t,v,D,google.ldi&&d.id&&google.ldi[d.id]||m&&C]);m=(t=d.complete&&(m||!v&&!(n&&D)))&&Number(d.getAttribute("data-iml"))||0;t&&m?(n&&++u,m&&(d=m-window.start,n&&(b=Math.max(b,d)),f=Math.max(f,d))):Q(d,n)}b||(b=a);f||(f=b);u==g&&B();google.rglh&&google.rglh();window.addEventListener("load",function(){window.setTimeout(function(){c.ol=(new Date).getTime()-window.start;timl&&(c.iml=f);var h=window.performance&&window.performance.timing;h&&(c.rqst=h.responseEnd-h.requestStart,c.rspt=h.responseEnd-
+h.responseStart);for(var r=h=0,E=0,F=0,G=0,S=0,k;k=M[S++];){var l=k[0],w=k[1],T=k[2];k=k[3];var U=0==l,x=l&8,H=l&4;l=1==l||2==l||x&&!H;!l||x||w&&!k||++E;w&&(l&&k&&++h,H&&!k&&++r);U||x?T||++G:w||++F}q+="&ime="+E+("&imex="+F+"&imeh="+G)+("&imea="+h+"&imeb="+r);P(N("all",q,c))},0)},!1)})();}).call(this);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   function _setImagesSrc(e,d){function f(b){b.onerror=function(){b.style.display="none"};b.src=d}for(var g=0,a=void 0;a=e[g++];){var c=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');c?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(c),f(c)):(google.iir=google.iir||{},google.iir[a]=d)}}"undefined"==typeof window.google&&(window.google={});
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAhFBMVEX///////7///zn7PkiW/oANfqQpfqjtvj1+fn6+/7z9f3a4vkAF/nH0fqnuPgAOvWtvfkATPkuYfmAmfmEnPZaffhgg/RniPiUqfeWrvNykPkNVfligvlPd/q0wvkjXPc5avYAKPucrvgAPf4AQvk3aPnN2PgAUfoAMP28yfkAJP55lPgqi86+AAAA/0lEQVQ4je2RXXeDIAyGkyBqSbVWbXEWtSjVOv///xu6r7vtarvyOQcSkpeXAwDs7Pwr9BEP6mcdH5P3JD39YhiuTgiQnbc1fjZwG3kRA5X5hfGqVfVSdxVmtyw3wle7hiFeAiOQCmiDju5du1gRWaFl39ukHZq5GUgHHDrUDS+OHg2AikarAJuFXoXRSPewdQTkMuLWSCqmfiZ+hv50Hq2/77VehYvfEbYTAk5pcS7TJ1FW34JRRqC0JFer2Sbxl1BWqrfCexZSmIr4GLsSbMDInR0i2IS4Cm/GuhlSKavHRUxS9sQBHNZnxnVGIiRA9JG2Kq0F9Dl+f8bOzl/yBlPgEcUcNEzmAAAAAElFTkSuQmCC';var i=['dimg_2'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/png;base64,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\x3d\x3d';var i=['dimg_4'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAMAAADxPgR5AAAAt1BMVEUWHzX////j4+UAAB4zOEkJFi8AAAAAACUPGTHzuy3u7u9bW2NRUlyXmJ8SHDP19vcAABsAABUAACKho6jY2Nq2t7sAABgACCh1eIItL0HJys36wC0AAAvP0NO9vsIAECyqq7AAEzWLjZQAAjUhKTzRoi+ifjAAFzXnsi4/OTTInDAUGDVPRDSJbTIADDV/ZjI4LzWSdDI/QU5jZGlqa3U1N0EyMjZ/gIYsJzUfICwYGiwJDyRmUzN9a45/AAAEfUlEQVRoge2Xa3fiNhCG5YssBbAwvttg5DjObpO2m8aYkkL//++qRjYGG5YQuptz9hy9XwBZM480mhkZhJSUlJSUlJSUlJSUlJSUlH5VMUpZ94M+sAtTfwyvNBOz+/X45eHrTwa6tq6n5n5fd/Pfnm4hMpe6V8bG8TRNN+keeDd//v0G4NbOcn4dcQi8m//x8S2GuaZp6exG4J/fPgy0BE+bJvT9meeALzcApwAsbwQ+XWXXk2sLYB5eNfcHJU0cbPB1U/vA+fz5r5sKMQqjK2f2gY+vb/fnZjHWz3mKo4jjS3XAhg8p5hzTIfDh2xkn3InKBLlGFzNuVKt4E48TYz+bEteVj5n4wkQfcFHCjaMgR1G1quuVSfAx8GxU8GKSp5mfLe1k0UybTQJd1oFv73izHbMoionwz5LCtktiFMvMT3Nzn0bUqlNpogeJ1QHpIj7Diypf22u5Fkti2OsGtOmYyEWNRV3YhvgyGWna3/WofWo368HJ8mCx2gP5OtVOec5menCv6WOOFq1xOx6TE+DqYLIxZLyzxtqHXY7SBojXYien+5vAzJE9qeJMuNEr7ORyr5P1eh3LvU/4ECjc+rm97JoBkSaBmZRl5cnFADAKxOMhjyawpiAMOSbWRM9EotXCYhpbnFLqWsJG8x02AGqj2AoNq4T12K4YA0i8oCLV6UJuXwCjWnwW6Gs/SaNCjGa7NqXMEiMOjKJNBoYhVnE0BMpANtFZkqaz54vWpWE3wIVYjo/Q61uPiGGR5T67RWmxBOJkdQtagc8hUG+fWyI8Wcmgs0/X+8KjTAcgr8DCQvMvx3XP/oGQHd86uIIQO93vxVT67AOD1gLSy08wgqsLdRuBUd10NxC7AM2f74fuPfc4xjFE7FCvlgjBqKJ9YNFazAIAkrrvxC0A6NgycdH85RjIx3Ds5GiEXAOMyUXgRgKbYkZPvU7K4dg9MhwpDiMWHJnJLgEjWHV+MGlamwHpmOaof8XQt+EZUkiadJ9xCJvN+VwC4hJO6+gMMwCSukmavtgWkjw5ztJtL29lYES4LgEZREG2hyZGlQwKjsRHdnJTyB6RbRv/mIqXFlmZ6a4ZCcfCalrhy0ADVpW1jZ/BINSh/LSHQC7reLklEY9c5KdbcQVC70lLlxDixtA1vHDY2gZAKp3kW8I5JzOvbW2yAk5aGwqLppdu6g2sKFtTWbEC6Xm5vBPSHXoHKAsBnMSrutBl14deSqAST4BNXzrcDeLOi1bH90cqz/MykDlB6wQsR3kDZJF3Dohmsd55901wFYXL9r7T9MKS534ZKL4Vo87HerO/gIXrM0BkVEUqV7aMUZNq1J3YqT7y801iNHMw9FTPaMmbFhgKYCaByJjYPjjJitIYB4FXylE3QfdnXmlo5BqzWWi4hz8PmLiG4RLevcGW47qu5GvDbjbrijlynB3rLJzZzHEjJu5jErWjDL18703snT8qTGRgSz95Xbuo+evZt8Sfp/njZwM/e4f/fvyf0//TJ+9PSUlJSUlJSUlJSUlJSUlJ6RfRf5SCWqJgdRZHAAAAAElFTkSuQmCC';var i=['dimg_6'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAMAAADxPgR5AAAAVFBMVEX////zuiz++/XztxzytAD0wlTzuSf76cn1xWL0w1f76MbythX+/Pj++O388dz768z99OT53qv31I/zvT365b7zvkP42qL87NH2znz0wU7zuzT1xV3s3EE4AAACcUlEQVRoge2Z65KjIBCFJZD2AjHmOkl4//fcUZFBQXdQ7Nqq7VPzI5Vx+Kbb01yaLCORSCQSiUQikZJInepznp/rk0KANZfXWwoj+X5dmj1p9fUmJACzApDidq13wt1LwR2YhXJR3vfAPUSAZpjikRpZ63lcj9RJE/tcxvXIZzLcQYu/4VoJfUjDaz78NzzG+CdJWr9C1mQQ/JJ/JeDJ0NBc61DYIDcTm2B8/KjUMUjkG2eewyfM+7bHIUz8bHNOMHEdb47I9RbeM1QPhjdH3FKP9SJvlri+OHTgBTq8GSKsTuo9EOCIN0MUa2fyhx/ghBcmwiNZgB4vTFwZYukF6PplyTlQruH5FnV4Smu7gwoQVxn1Oh3Gja+QsliIkV9XAG+TjIJ2eYy5xGn9wC2e10wzyq0TOt6IeJfTnMbP4ZfpGJZoeA6x8l6ivEQDX55HQVbtL1Rh/xVZdM6p/CUTXtHAtzsIMD4Q+/ig++lj7Hmcjf7gHctTbkZ52fQYWSnzIc9lT1SV+dCUbmJl7Lnj5HimrQcDYl0FAK/aF9cFdrShjqpDnCKBTtn39WesAgNvIMKPfVxidOmfxZjnmNOYxzHLYFeHKM6RwHwAgp3DVGHGz+1D5pHCPmJnAJH7Y/5bwFBK+Z4pXTSN3ME0y2Uh/bJQG8sCvfDRpzb8yTuwPBlz7rQ8eQuwXFqAp8QVCzD6FgN/E4W+TUTfCONv9dEPM/jHNfQDKf6RG72pgN82wW8MZXVs62tzQxG7uYffvvzO6u8btIkuMbBb0Bl6kz3Dv0bI0C9KOiTuVVAr5MuuTrjXeUaoF5YkEolEIpFIpP9CfwCU6SbNpDtp5QAAAABJRU5ErkJggg\x3d\x3d';var i=['dimg_8'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHAAcAMBEQACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABgcBBAUDAv/EAEUQAAEDAgIEBwsKBQUAAAAAAAEAAgMEBQYRITFBUQcSExRhgdEVFyI2VXGTobGywTJUcnSDkZKUs9IWIzdTo0JDUmJz/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAMEBQYCAf/EADMRAAEDAQQHBwQCAwAAAAAAAAABAgMEBRESMRMhNFJxgZEUFTNBUWGxMqHB0SIjQuHw/9oADAMBAAIRAxEAPwC8UAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAYzQGUAQBAEAQBAEAQBAEBoXe70NnpuXr5xG3U0a3PO4DapYoXzOwsS8hmnjhbiepXl44Ra+dzmWuFtLFsfIOM8/AetbENlMbrkW9TEmtd7tUaXEZqb9d6pxdPc6tx3CUtH3DQr7aWFuTUM91XO7NynlHdLjGc47hVtPRO7tXpYIlzanQ8pUSp/kvU7NuxzfKJw5SoFVGNbJ25+saVVls6B+SXcC3Fac7M1vJ9hzGdvvJbA/OlqzqikOh5/wCp2+bWsipoZYNeaeps0toRT6sl9CShUi+ZQBAEAQBAEBycR3unsVudVT+E8+DFHnkXu3ebep6eB078LSvU1DYI8TimLrcqu7Vj6utlL5XatzRuA2BdPDCyFuFiHKTTvmdiepqMa57g1jS5x0AAZkqRVREvUiRFVbkPfmNZ80qPRO7F50se8nU96GTdXoOY1nzSo9E7sTSx7ydRoZN1eg5jWfNKj0TuxNLHvJ1Ghl3V6HxJTzwBrpoZYxnoL2FulEex2pFvPisezWqXFkYBxa+tLbXc5M6gD+RM7XIB/pPT07fbiV9Fo/7I8vP2N6zq5ZP6pM/InYWUbBlAEAQBAYKApfG15deL5K5js6anJihGzIHSes+oBdNQwJFCl+anK2hULLMt2SEfV0oG/h+qho73Q1NQ8Mhima57teQHQFBUtV8LmtzuLFK9GTNc7JCdXXhHjp6wsttPHVU3FBErnOYSdoyIWTDZTnNvkW5TYmtZrXXRpehp986p8mQ+mPYpu6G7/wBiLvh259x3zqnyZD6Y9i+d0N3/ALDvh259zZ4RKp1bhS0Vb2hjp5GSFoOYGcZOSjs5mCoe30/ZJab8dMx3r+iu4pHwyslicWPY4Oa4awRqK23IjkVFMJrla5FTMvLDF2bebLT1mgSOHFlaNjxoK5Sph0MqsOvppkmiR51VAWAgCAIDmYlrHUFgrqphyeyF3E+kRkPWVNTsxytb7kFS/Rwud7FErrTjToYea19+tzXtDmmpjBBGYI4wUNTqhcvsT0qIs7UX1LKvV6tFpuzLa6yGonexrm8jDGc8ydAz26FgwwSyxrJjuRPc6GeoihkSPBeqmhVYus1FMYavDc8EoAJZJBG05HrUzKKaRL2yIvNSB9fDGuF0dy8EPH+OcPeQn+ii7V67uqd/5PHedNufBjH3M6jCdurqSkjgFROxwAYA4AxvORyX2z8balzHLfch8tLA6ma9qXXqeWNfEawfZfpFeqHa5OfyfK7Y4+XwQBbJhlicE1Y48/onHwRxZWjp1H4LEtZmtr+Ru2PJqcwsVY5uBAEAQEc4Qs/4Srct7PfCuUG0NKNpX9mdcUyunOUOjhzxgtv1qP3goKrwH8FLFJ47OJMsSf1Mtfmh95yy6bYX8/wa1Vt7OX5ONwl+NMn/AIx+wq1Zez8ypa20ciKrRMwn2LP6d2H6cX6T1jUe2yc/k26zYY+XwZxr4jWD7L9IpQ7XJz+T7XbHHy+CALZMMmnBVn3eqd3Nj7zVl2t4ScTWsfxl4FqrAOjCAIAgOVimkdW4euFOwZvdC4tG8jSPWFNTPwTNd7leqZjhc32KLXWnHHRw54wW361H7wUFV4D+BYpPHZxJliU5cJdsJ1ZRe85ZdNsL+f4Naq29n/ep1cSYMjvt1fXG5CDjMa3iCIO1dPGCr0tesEeDDeT1VA2okx47jl97OLyz/gH7lY72duff/RW7nbvm3UYIqqmiio58RvkpocuTidAMm5DIZeFuJUba9rHK9sdyqTOs9XsRjpdSGvwi07aPC1qpBIJOQlbHxtWeUZGeS92a5X1D3XZ/s8WmiNpmMRcv0VwtwwCweCalPK3CsI8EBsTT06z8Fi2u/wClhu2Oxf5PLIWMbgQBAEBg6QgKSxhaHWa+TwtaRBKTJActHFOzqOhdRRTpNEi+aZnJV1PoZlTyXI1cOeMFt+tR+8FJVeA/gR0njs4k+xjhC4Xy888pJadsYhazKRxBzBO4dKxqKuZBHhci5m3XUEk8uNq3HC7293/v0X43ftVvvWHdUp90z7yDvb3f+/Rfjd+1O9Id1R3RNvIZxdhekseHaKdrDz10rY53CQuaTxHE5A9IC+UdU6edyLl5H2tpGwQNVPq8yGLVuQx1VTLWue4NY0ucTkANZKKqIms+oiqtyF34StPcax09K4Dlj4c2X/M6/u1dS5Sqm00qv8jrqODQwo3zOyoC0EAQBAEBxMV4fhv9vMLjxKiPN0EuXyTuPQdvUrNLUup33pl5lSspW1EeFc/Ipuqpqy1V7oZ2yQVULs9Ggg7CD7CumY9kzL01opyz43wvuXUqHt3evPlav/Mv7V47LBuJ0PXap99eqju7efK9w/Mv7U7LBuJ0Qdqn316qO7t58r3D8y/tTssG4nRB2qffXqp41Vyr6yMR1lbU1DAeMGyzOeAd+ROvSvbIY2Le1qIeHzSyJc5yqaqkIyxOD/Cb2SR3e5xlpGmmhcNP0z8B17liWhW4k0UfM3rOoFT+2ROCFiBY5tmUAQBAEAQBAcm+2CgvkAjrYvDb8iZuh7PMfgp4KiSB17FK9RSxztuehXN4wDdqFznUbRXQ7DHk14HS0/DNbUNpxP1P1KYU9lzM1s1oRmpo6qlJFTTTwkbJYy32q+2VjvpVFM90T2fUioeMbXSu4sTXPO5ozXpXImanlGOXJDtW3Cl7uLhyNBLGw/7k45No+/SeoFVZa6CPN1/AtRUE8mTbuJPsN4Eo7W9lTXOFXUt0tzb/AC2HoG09JWPU2hJL/FupDapbNjhXE/WpLws80zKAIAgCAIAgCAIAgMEA60PlxgMA1ADqQXIfSH0IAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAID5EjCHEOBDTkdOpAZDgRmCCN6Aw6RrWF5cA1uZJJ0DJAZzQDNAfHLxEkCRmgAnwhoz1ID5FVAcspoznllk8bRmPVpQGOd051TxHb8sbs/Zp8yA9muDmhzSCDpBB1oDKAID//Z';var i=['dimg_10'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d';var i=['dimg_12'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACgAKAMBIgACEQEDEQH/xAAbAAACAwADAAAAAAAAAAAAAAAABQEEBgIDB//EADEQAAIBAwMBBQYGAwAAAAAAAAECAwAEEQUhMRITIkFhcQZCUYGRsWKhwdHh8BYyUv/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAIFAf/EAB0RAAMAAQUBAAAAAAAAAAAAAAABAhEDEyExQXH/2gAMAwEAAhEDEQA/AI0HQ9Ojs2tYI8TBiXmWPpUnHAJGTjniuM2m9d3M5kUxxOsfHrwPHg07WSEGSaAKksylw2csrZwVK+7tvkUnvJ4bCCS6nbqOcBQwDOxOwA/IftXKmaqm2XuklgxrjVLHWbtdDd5OqUl7cr1ISdySDx6jFbHTLfW5Iw+oW2nxysuMIGkxtjOMgD6n51Y0qyTTYCZsG6mkaaeQruzMcnHjj4Cny2rqitIyx9YVk7Qhc89S43OfgeOKo1XL4wLjK9MD7SaD7QXUbIl6k0GO/BDGYusepZieeMgVFbi/gktuzYnIkHdxvRRGrUrCSPKhN8mE/wAkuUti0Ok6hKcbB0C4PHxJ8R4UhS/v9V9obCXUcBYp1EcKghYznY78njc16FpMDiKZZY8EdxkPwxt8iCMHzrq1XS7e+t+nswJfclA7y5/kjnbatLViX0G3TGS9otzhGKMjbMrf64HII+fFX0aO9sGM3ayS2xPL7lfMkH+ikGl3rTtLDNIovID0TIPH8XmD6/ar9vcG2LsqIzsMd44BHp9N6VbGSkNUulurOSSWEdCKAhHA2255NFI9S1jMbdq7CKItgk4whxtgbbUUSgZc0i4u7cPDfSwLjuKrMqlgDgbDgYFU9RWSxPQqmaSXjB55/Wiip/fo19GB9rnaDVLW8tZmjuGiIEkbb7EbHy3qbHW9enjELwW7g8N1NESePdP2Aooq/jbWUSpZtlfVrnWZYcRPbwKowXUuXxj/ALYnfxzsaKKK1LM0uT//2Q\x3d\x3d';var i=['dimg_15'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var s='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACgAKAMBIgACEQEDEQH/xAAaAAABBQEAAAAAAAAAAAAAAAAAAQMEBQYC/8QALBAAAQQBAwMDBAEFAAAAAAAAAQIDBBEFABIhIjFRBhNxFEFhgTIVI1KRof/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQQA/8QAGxEBAAMBAQEBAAAAAAAAAAAAAQACESExQRL/2gAMAwEAAhEDEQA/AHkek4UycpppUhDAbNLsbSR3pW09uOOfk6r8l6FycWehll9h1lzlBXwo8XVcg8fe+fxrfTVBrFPpacqOTaNyaSr8337+Bqk9QZQ/0pctBS4YydzSWlK6KSo9/BHHweNbYUyszQ9nLEWJiMMzipMP6hxtpKiGglYLpNrVSiPKRfgVx200xKcxa4WMjwkqMh/+2d9nvZJAHftfyPjWe9N5FibgMhPzGLlvRh0pksyHPdkuhRISy2kdAHZSgQDXN80vpfMy5+MH1ltvx1lr3AnrU2oC27FbTyORzQ8nSxJPR9jHq3AxHMfNyeOioZEZ5awpkja40FGtw7A7eQR3rnvo1oH84vErLMnHNqRGjofDRUQtTZKk0gAHkbU96AHc88Lo0EOspexZ0JHlsrfjsQXpb7qUbSVyVi3bSDyoeL28/wCJs6axeVdjIdbzSA6ktNhaPdQVkfxITtsJ6kbhyeQR27QcXObxuGnMeqMiX8pEeCihC0laELSlVHcQVgbieOR1AfnidkNziEwYwkS21ltCn+ENqs2pQA6iK+/iu+jS4mMTXvJ1kEQcG0+zEzOQjwHDaUMOe2Gurd0gnpNq529/tWqKTkXo7MZ7GOCO00tKkNLUouySoE7q/kb4P75vjV1P9OOZLHiG9k47+TCTI+nbbpS0K7kE/ewkjsOmhV6zdzmH90pthC0VvW80d5IA5Njp7fbUVueseV+E08OcxkmQvKSXIzyWfZcSFhO5O4cGqokgjpr8AaNZoKQw80FRnVxlUlSmykhSioVQJ5vcbIv96XVC7kDU2TcnkG0vOPSsrNmAnc2HYVutLoDclYUKNCro/GpvoyW268+p2N9M2lFMB0lRrdd+Sb3E/kk6TRrxQrE22W8mDJPqv6yOy6qGpj2ytI3Ct3/eL8f71V+o3oWPkY9ieVh95RUVOkFTdXRNcJBv9Ajxo0aSbCcj+XhvSH4j8FbCWG0jYhTZJSonlQogHpqv350mjRrjbMr+Z//Z';var i=['dimg_22'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lGfIhDDvzteE7UjFjU/QUg==">
+   (function(){var e='BpauYd_qHOmUseMPufKt-A0';(function(){
+var a=e;2===(window.performance&&window.performance.navigation&&window.performance.navigation.type)&&window.ping("/gen_204?ct=backbutton&ei="+a);}).call(this);})();(function(){
+var b=[function(){google.tick&&google.tick("load","dcl")}];google.dclc=function(a){b.length?b.push(a):a()};function c(){for(var a=b.shift();a;)a(),a=b.shift()}window.addEventListener?(document.addEventListener("DOMContentLoaded",c,!1),window.addEventListener("load",c,!1)):window.attachEvent&&window.attachEvent("onload",c);}).call(this);
+window.jsl=window.jsl||{};window.jsl.dh=function(d,e,c){try{var f=document.getElementById(d);if(f)f.innerHTML=e,c&&c();else{var a={id:d,script:String(!!c),milestone:String(google.jslm||0)};google.jsla&&(a.async=google.jsla);var g=document.createElement("div");g.innerHTML=e;var b=g.children[0];b&&(a.tag=b.tagName,a["class"]=String(b.className||null),a.name=String(b.getAttribute("jsname")));google.ml(Error("Missing ID."),!1,a)}}catch(h){google.ml(h,!0,{"jsl.dh":!0})}};(function(){var x=false;
+google.jslm=x?2:1;})();(function(){(function(){google.csct={};google.csct.ps='AOvVaw2VRWykjz0ruM9HNaUcQT5T\x26ust\x3d1638918022533849';})();})();(function(){(function(){google.csct.rd=true;})();})();(function(){
+window.xp=function(b){function f(k,g,h){return"xp"+("x"==g?"c":"x")+h}for(var c=/\bxp(x|c)(\d?)\b/,a=b;a;){var e=a.className,d=e.match(c);if(d){d="c"==d[1];a.className=e.replace(c,f);b&&b.setAttribute("aria-expanded",d);if(d)for(b=a.getElementsByTagName("img"),c=0;c<b.length;++c)if(a=b[c],e=a.getAttribute("data-ll"))a.src=e,a.removeAttribute("data-ll");break}a=a.parentElement}};})();(function(){(function(){
+window.logVe=function(a){a&&a.attributes["data-ved"]&&window.ping("/gen_204?ved="+a.attributes["data-ved"].value)};}).call(this);})();(function(){(function(){var id='tsuid1';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){(function(){var id='tsuid14';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl=window.jsl||{};window.jsl.dh=window.jsl.dh||function(i,c,d){try{var e=document.getElementById(i);if(e){e.innerHTML=c;if(d){d();}}else{if(window.jsl.el){window.jsl.el(new Error('Missing ID.'),{'id':i});}}}catch(e){if(window.jsl.el){window.jsl.el(new Error('jsl.dh'));}}};})();(function(){window.jsl.dh('accdef_17','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px\x22 class\x3d\x22hwc\x22\x3e\x3cdiv class\x3d\x22AzWLW\x22\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22FybcKc\x22\x3e\x3cdiv\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22Xdlr0d\x22\x3e\x3cdiv class\x3d\x22idg8be\x22\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dBitcoin\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLSz9U3MC0wKCqqMJLLzS8uUSgoyk_LLElMyklVSC6qLCjJTy4tKkrNS66M4nLJT08Fymcmp55iRNJ4ipEbxDE0sEjKMwLyePXT9Q0N09OMUpLLk7KgSktMTUxyTH4xyvnitaSBhXERK7tTZklyfmbeLTZJhhszuUwNv8u_u_lVYWsnd6H_zGSr31tdjnwCAJ7mY8m8AAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAP\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcTDYi_ls2viGR6oQy8nD2Zvg-QgUPcGv108ngLD5eFCs2C-eprnEg1e\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eBitcoin\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dEthereum\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLWz9U3MDSwSMozqjCSy80vLlEoKMpPyyxJTMpJVUguqiwoyU8uLSpKzUuujOJyyU9PBcpnJqeeYuQC6TQtMCgqqjjFiGzMKUZe_XR9Q8P0NKOU5PKkLKjSElMTkxyTX4xyvngtaWBhXMTK4VqSkVqUWpp7i02S4cZMLlPD7_Lvbn5V2NrJXeg_M9nq91aXI58ATnuTgr4AAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAQ\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcR4nUivIK9KRwUh1SvsMsiiQVB2MjpIQ1uc_-tMmbtodw-cWfGz2n3G\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eEthereum\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCardano\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NExPM0pJLk_KMpLLzS8uUSgoyk_LLElMyklVSC6qLCjJTy4tKkrNS66M4nLJT08Fymcmp55i5NLP1TcwLTAoKqo4xcgN4hgaWCTlGQF5qMZClZaYmpjkmPxilPPFa0kDC-MiVnbnxKKUxLz8W2ySDDdmcpkafpd_d_OrwtZO7kL_mclWv7e6HPkEAKsdkkO_AAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAR\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcSy8RLeWghy42X8025ghfZ98AtBgEIZuJ4H9kiOwtDW3yt3uW_XcARr\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eCardano\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dLitecoin\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLSz9U3KDE1MckxMZLLzS8uUSgoyk_LLElMyklVSC6qLCjJTy4tKkrNS66M4nLJT08Fymcmp55iBGs0LTAoKqo4xcgN4hgaWCTlGQF5vPrp-oaG6WlGKcnlSVlQpRA7fjHK-eK1pIGFcRErh09mSWpyfmbeLTZJhhszuUwNv8u_u_lVYWsnd6H_zGSr31tdjnwCACREAV69AAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAS\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcReWQPHMo2kcbajJ9chOiwy-snpTNNMKfIDkry9\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eLitecoin\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3cdiv class\x3d\x22mHhylf\x22\x3e\x3cdiv class\x3d\x22WZ5GJf\x22\x3e\x3ca class\x3d\x22qN9Ked\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dMost+profitable+cryptocurrency\x26amp;stick\x3dH4sIAAAAAAAAAOOQMZLLzS8uUSgoyk_LLElMyklVSC6qLCjJTy4tKkrNS66M4nLJT08Fymcmp55i5NLP1TcwLTAoKqo4xcgN4hgaWCTlGQF5vPrp-oaG6WlGKcnlSVlQpSWmJiY5Jr8Y5XzxWtLAwriIlYCaW2ySDDdmcpkafpd_d_OrwtZO7kL_mclWv7e6HPkEAN0vnYnHAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QzO0BegQIChAT\x22\x3e\x3cbutton class\x3d\x22DXk5Me Qi9Fd\x22 tabindex\x3d\x22-1\x22\x3e\x3cspan class\x3d\x22hWHuJ\x22\x3e\x3cimg class\x3d\x22Dk7jOe\x22 alt\x3d\x22\x22 src\x3d\x22data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d\x22 style\x3d\x22max-width:24px;max-height:24px\x22 id\x3d\x22dimg_19\x22\x3e\x3c/span\x3e\x3c/button\x3e\x3cdiv class\x3d\x22BNeawe ji5jpf tAd8D AP7Wnd\x22\x3eMore results\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H MHODM\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dMost+profitable+cryptocurrency\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q4qYDegQIChAU\x22\x3eMost profitable cryptocurrency\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid21';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_24','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px\x22 class\x3d\x22hwc\x22\x3e\x3cdiv class\x3d\x22AzWLW\x22\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22FybcKc\x22\x3e\x3cdiv\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22Xdlr0d\x22\x3e\x3cdiv class\x3d\x22idg8be\x22\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dAltcoins\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEyqSDY3zzE3M-JJLqosKMlXKEktyi2O4nLJT09VKCjKTE49xYiq8hQjl36uvoFpgUFRUcUpRm4Qx9DAIinPqAKmNM2o0NAyO7f4FCMnSDalrKQwHiaXnGeWlpNdZAzjp8SXl5Qlm2b_YuRxRnJBAwvjIlYOx5yS5PzMvOJbbJIMN2ZymWbWVGlI3mvbafMqct0eh7UxSb8_ZQAAjRyuPcsAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAZ\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQY7V-degSsGApihgP9qyvO3aV3e9r7N7hbUJuWDNaZcNJtRKcghEFw\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eAltcoins\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dFork+(blockchain)\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEwzKjS0zM4tNuJJLqosKMlXKEktyi2O4nLJT09VKCjKTE49xQhRmVSRbG6eY252ipFLP1ffwLTAoKio4hQjN4hjaGCRlGdUAVMKM_QUIydINqWspDAeJpecZ5aWk11kDOOnxJeXlCWbZv9i5HFGckEDC-MiVkG3_KJsBY2knPzk7OSMxMw8zVtskgw3ZnKZZtZUaUjea9tp8ypy3R6HtTFJvz9lAABhRsDv1AAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAa\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcT82P5Jz9BaA6tGzFLcyc-GA5EZc908mcqbzhoOdLshOqYyM7VqPwp-\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eFork\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dSmart+contract\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLUz9U3SCkrKYw34kkuqiwoyVcoSS3KLY7icslPT1UoKMpMTj3FyKufrm9omFSRbG6eY252ipELpMu0wKCoqOIUIzeIY2hgkZRnVAFTmmZUaGiZnVt8ihFhAUwuOc8sLSe7yBjGT4kvLylLNs3-xcjjjOSCBhbGRax8wbmJRSUKyfl5JUWJySW32CQZbszkMs2sqdKQvNe20-ZV5Lo9Dmtjkn5_ygAAHg12Vc0AAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAb\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcSGshQyKXD8D4b-K0Ww0rX43HIh5tjnC0CRDTYg6Tb5gacclZHBPQNV\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eSmart contract\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dDistributed+ledger\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEzOM0vLyS4yNuJJLqosKMlXKEktyi2O4nLJT09VKCjKTE49xQhRmVSRbG6eY252ipFLP1ffwLTAoKio4hQjN4hjaGCRlGdUAVOaZlRoaJmdW3yKkRMkm1JWUhgPk4NZCOOnxJeXlCWbZv9i5HFGckEDC-MiViGXzOKSosyk0pLUFIWc1JT01KJbbJIMN2ZymWbWVGlI3mvbafMqct0eh7UxSb8_ZQAAxxCqo9UAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Qs9oBegQIChAc\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 data-ll\x3d\x22//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQwuNDHvQgrabjkJnO7bAOJxf-zHhvfba2Y2zemD4SduLa2_xvO1GX9\x26amp;s\x3d0\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eDistributed ledger\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3cdiv class\x3d\x22mHhylf\x22\x3e\x3cdiv class\x3d\x22WZ5GJf\x22\x3e\x3ca class\x3d\x22qN9Ked\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCrypto+terms\x26amp;stick\x3dH4sIAAAAAAAAAOOQMeJJLqosKMlXKEktyi2O4nLJT09VKCjKTE49xcirn65vaJhUkWxunmNudoqRSz9X38C0wKCoqOIUIzeIY2hgkZRnVAFTmmZUaGiZnVt8ipETJJtSVlIYD5NLzjNLy8kuMobxU-LLS8qSTbN_MfI4I7mggYVxESuKyC02SYYbM7lMM2uqNCTvte20eRW5bo_D2pik358yAA_e9NzAAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98QzO0BegQIChAd\x22\x3e\x3cbutton class\x3d\x22DXk5Me Qi9Fd\x22 tabindex\x3d\x22-1\x22\x3e\x3cspan class\x3d\x22hWHuJ\x22\x3e\x3cimg class\x3d\x22Dk7jOe\x22 alt\x3d\x22\x22 src\x3d\x22data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d\x22 style\x3d\x22max-width:24px;max-height:24px\x22 id\x3d\x22dimg_26\x22\x3e\x3c/span\x3e\x3c/button\x3e\x3cdiv class\x3d\x22BNeawe ji5jpf tAd8D AP7Wnd\x22\x3eMore results\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H MHODM\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCrypto+terms\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjfhdHFo9D0AhVpSmwGHTl5C98Q4qYDegQIChAe\x22\x3eCrypto terms\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();google.drty&&google.drty(undefined,true);
+  </script>
+ </body>
+</html>
